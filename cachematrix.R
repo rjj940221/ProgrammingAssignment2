@@ -2,6 +2,8 @@
 ##the invers of a matrix thus reducing time by not having to recompute the matrix invers.
 ##These functions assume that the matrix they are passed can infect be inverted.
 
+## Note this code is a modification of the example code supplied in the README.md
+
 ## makeCacheMatrix: takes a matrix as its argument the body off the code then creates an
 ##empty variable the function then creates four enclosed functions set, (which takes a sets 
 ##the original matrix to equal a new matrix and empty's the Q variable), get (returns the x 
